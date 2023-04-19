@@ -1,0 +1,17 @@
+@mixin small {
+    @media only screen and (min-width: 600px) {
+        @content;
+    }
+}
+
+@mixin medium {
+    @media only screen and (min-width: 768px) {
+        @content;
+    }
+}
+
+@mixin default {
+    @media only screen and (min-width: 1024px) {
+        @content;
+    }
+}
