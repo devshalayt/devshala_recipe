@@ -16,7 +16,7 @@ function Tabs(props) {
         {
             name: 'Noodles',
             icon:<GiNoodles />,
-            id: 'a243e3cd56da95b31e5a86ef52578908'
+            id: 'c7657780aec8ce44886fa9288f707dfb'
         },
         {
             name: 'Desert',
